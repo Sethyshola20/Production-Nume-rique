@@ -1,0 +1,50 @@
+@media screen and (max-width: 665px) {
+    #pain{
+        font-size: 2rem;
+    }
+    .navbar-item{
+        font-size: .75rem;
+    }
+    section{
+        padding: 1em;
+    }
+    .show{
+        font-size: 1.25rem;
+        padding-bottom: 0;
+    }
+    h1{
+        font-size: 0.9rem;
+    }
+    #first-section{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    article p{
+        font-size: 0.75rem;
+    }
+    .swiper-container{
+        width: 65vw;
+    }
+    .swiper-slide div{
+        padding-right: 5em;
+        padding-left: 5em;
+    }
+     h3{
+        font-size: 1.25rem;
+    }
+    h4{
+        padding-bottom: 1em;
+    }
+    h2{
+        font-size: 1.5rem;
+    }
+    .synopsis p{
+        font-size: .75rem;
+    }
+    .citation {
+        font-size: .8rem;
+    }
+    .credits{
+        padding: 2em 0 1em 0;
+    }
+}
